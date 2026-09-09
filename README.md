@@ -23,8 +23,6 @@ I'm RUDRA — a creator working across:
 
 <br clear="right"/>---
 
-">_ 
-
 ">_ PROJECTS"
 
 <div align="center"><img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1200&q=80" width="100%" alt="Cyber technology">⚡ PORTFOLIO SYSTEM

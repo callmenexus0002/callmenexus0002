@@ -23,9 +23,7 @@ I'm RUDRA — a creator working across:
 
 <br clear="right"/>---
 
-">_ PROJECTS"
 
-<div align="center"><img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1200&q=80" width="100%" alt="Cyber technology">⚡ PORTFOLIO SYSTEM
 
 RUDRA Digital Creative System
 
@@ -56,36 +54,6 @@ Graphic Design • Coding • Video Editing • AI • Photography • Cyber
       └─ KIYA AI • VISION • New Digital Experiences
 
 ---
-
-">_ GITHUB_ANALYTICS"
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=callmenexus0002&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff&icon_color=00ff88&count_private=true" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmenexus0002&layout=compact&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff" height="170"/></div>---
-
-">_ CONTRIBUTION_MATRIX"
-
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=callmenexus0002&theme=dark&hide_border=true&background=050505&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" width="70%"/><br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=callmenexus0002&bg_color=050505&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="95%"/></div>---
-
-">_ TERMINAL"
-
-<div align="center">┌─────────────────────────────────────────────┐
-│                                             │
-│  $ whoami                                   │
-│  > RUDRA                                    │
-│                                             │
-│  $ system.status                            │
-│  > ONLINE                                   │
-│                                             │
-│  $ mission                                  │
-│  > CREATE • BUILD • EXPERIMENT              │
-│                                             │
-│  $ next                                     │
-│  > UNKNOWN                                  │
-│                                             │
-└─────────────────────────────────────────────┘
-
-</div>---
 
 ">_ CONNECT_WITH_ME"
 

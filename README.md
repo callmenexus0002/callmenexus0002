@@ -23,37 +23,7 @@ I'm RUDRA — a creator working across:
 
 <br clear="right"/>---
 
-">_ MY_TOOLKIT"
-
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,python,github,figma,vscode&theme=dark" /><br><br>
-
-"DESIGN" • "CODE" • "EDIT" • "AI" • "PHOTO" • "FIGMA" • "CYBER"
-
-</div>---
-
-">_ THE DIGITAL ZONE"
-
-<div align="center"><img src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=1400&q=80" width="100%" alt="Technology"></div>"CREATIVE_DOMAINS"
-
-⚡ DOMAIN| 🧠 SYSTEM
-🎨 DESIGN| Visual Identity / Graphics
-💻 DEVELOPMENT| Websites / Interactive UI
-🎬 EDITING| Cinematic Video / Reels
-🤖 AI| Experiments / Creative Tools
-📸 PHOTOGRAPHY| Visual Storytelling
-🧪 CYBER| Technology / Digital Exploration
-
----
-
-">_ CURRENT_MISSION"
-
-<div align="center"><img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1400&q=80" width="100%" alt="Artificial Intelligence">"KIYA AI × VISION"
-
-Building futuristic creative experiences.
-
-"AI" "DESIGN" "CODE" "VISION" "CREATIVE TECH"
-
-</div>---
+">_ 
 
 ">_ PROJECTS"
 
